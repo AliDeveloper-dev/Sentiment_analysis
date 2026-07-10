@@ -310,8 +310,9 @@ font-weight:bold;">
 🔟 Screenshots / UI Preview
 </p>
 
-> Add screenshots of the running app here once deployed, e.g.:
-> `![UI Preview](assets/ui-preview.png)`
+<p align="center">
+  <img src="ui-preview.png" alt="Sentiment states - positive, negative, neutral" width="480">
+</p>
 
 <a id="11-author"></a>
 <p style="
